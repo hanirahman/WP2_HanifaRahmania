@@ -1,4 +1,5 @@
 <section> 
+        <img src="<?php echo base_url() ?>assets/img/honey.jpg" width="300">
             <h1><?php echo $judul ?></h1> 
             <p align=’justify’>Pada pengertian codeigniter di atas 
 tadi di jelaskan bahwa codeigniter menggunakan metode MVC. Apa itu

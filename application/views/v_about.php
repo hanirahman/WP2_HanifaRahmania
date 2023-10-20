@@ -19,6 +19,13 @@
             <li>Renang</li>
             <li>Jogging</li>
         </ul>
+
+        <h4>Pendidikan Terakhir</h4>
+        <ul type="square">
+            <li>SD SUMBER JAYA 04</li>
+            <li>SMPN 05 TAMSEL</li>
+            <li>SMA JAYA SUTI ABADI</li>
+        </ul>
     </div>
 
 </section>
